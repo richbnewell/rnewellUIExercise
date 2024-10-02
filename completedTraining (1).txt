@@ -1,0 +1,102 @@
+[
+  {
+    "training": "Electrical Safety for Labs",
+    "count": 118
+  },
+  {
+    "training": "Safe Handling of Human Cell Lines/Materials in a Research Laboratory",
+    "count": 99
+  },
+  {
+    "training": "Awareness Training for the Transport of Hazardous Material",
+    "count": 110
+  },
+  {
+    "training": "X-Ray Safety",
+    "count": 118
+  },
+  {
+    "training": "Radiation Safety Annual Refresher",
+    "count": 121
+  },
+  {
+    "training": "Using Hazardous Chemicals in an Animal Care Facility",
+    "count": 115
+  },
+  {
+    "training": "Chemical Waste Requirements",
+    "count": 111
+  },
+  {
+    "training": "Safety Practices and Procedures to Prevent Zoonotic Diseases While Working With Cattle",
+    "count": 114
+  },
+  {
+    "training": "Transportation of Infectious Substances, Category B",
+    "count": 107
+  },
+  {
+    "training": "Working in Cold Temperatures",
+    "count": 110
+  },
+  {
+    "training": "Occupational Exposure to Bloodborne Pathogens",
+    "count": 102
+  },
+  {
+    "training": "Laboratory Safety Training",
+    "count": 113
+  },
+  {
+    "training": "Basic Training Program for Animal Users",
+    "count": 113
+  },
+  {
+    "training": "Physical Science Responsible Conduct of Research Course 1.",
+    "count": 111
+  },
+  {
+    "training": "Animal Care And Use Risk Assessment",
+    "count": 99
+  },
+  {
+    "training": "Understanding Biosafety",
+    "count": 123
+  },
+  {
+    "training": "NIH Guidelines Overview",
+    "count": 94
+  },
+  {
+    "training": "Radioactive Materials Safety Training",
+    "count": 121
+  },
+  {
+    "training": "Health Screening Questionnaire",
+    "count": 114
+  },
+  {
+    "training": "DOT Hazard Material Awareness",
+    "count": 116
+  },
+  {
+    "training": "IRB Quiz",
+    "count": 99
+  },
+  {
+    "training": "OHS Training",
+    "count": 116
+  },
+  {
+    "training": "Retraining in working with the IACUC",
+    "count": 114
+  },
+  {
+    "training": "Federally Required RCR Training - Must be delivered by PI (Not available online)",
+    "count": 114
+  },
+  {
+    "training": "Medical Records",
+    "count": 104
+  }
+]
